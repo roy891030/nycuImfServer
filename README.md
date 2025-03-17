@@ -1,7 +1,7 @@
 以下是完整的 **NYCU 伺服器 Jupyter Notebook 使用流程**，已經全部使用 Markdown 語法，您可以直接複製到 **Notion** 或 **其他 Markdown 編輯器**！🚀
 
 ```markdown
-# 📌 NYCU 伺服器 Jupyter Notebook 使用流程
+📌 NYCU 伺服器 Jupyter Notebook 使用流程
 
 ## **1. 連線到伺服器**
 在 **Mac 本機終端** 輸入：

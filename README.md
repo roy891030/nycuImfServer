@@ -1,11 +1,8 @@
-以下是完整的 **NYCU 伺服器 Jupyter Notebook 使用流程**，已經全部使用 Markdown 語法，您可以直接複製到 **Notion** 或 **其他 Markdown 編輯器**！🚀
-
-```markdown
-📌 NYCU 伺服器 Jupyter Notebook 使用流程
-
 ## **1. 連線到伺服器**
 在 **Mac 本機終端** 輸入：
-```bash
+📌 NYCU 伺服器 Jupyter Notebook 使用流程
+
+```markdown
 ssh -L 8888:localhost:8888 313707050_iof@140.113.26.108
 ```
 輸入密碼後，即可登入伺服器。

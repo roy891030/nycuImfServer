@@ -85,8 +85,6 @@ http://localhost:8888/tree
 ```
 
 ---
-
-這樣您就能快速在 **NYCU 伺服器上使用 Jupyter Notebook** 了！🚀
 ```
 
 **✅ 符合 Markdown 規範，貼到 Notion 不會跑版！**  

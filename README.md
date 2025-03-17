@@ -7,6 +7,10 @@ ssh -L 8888:localhost:8888 313707050_iof@140.113.26.108
 ```
 輸入密碼後，即可登入伺服器。
 
+```markdown
+密碼：nycu_手機
+```
+
 ---
 
 ## **2. 啟動 Jupyter Notebook**
